@@ -6,4 +6,4 @@
 
 ## 项目讲解
 
-https://shangzg.top/2022-08-28-building-a-backend-interface-via-springboot/
+https://shangzg.top/2022-09-05-springboot-dynamically-calls-different-implementation-classes-through-different-strategies/
